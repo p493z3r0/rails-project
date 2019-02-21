@@ -1,0 +1,15 @@
+file:///home/vmadmin/workspace/myapp/db/migrate/20190221074053_create_subjects.rb
+class CreateSubjects < ActiveRecord::Migration[5.2]
+  def self.up
+    create_table :subjects do |t|
+
+      t.timestamps
+    end
+
+  end
+
+  def self.down
+    drop_table :subjects
+  end
+
+end

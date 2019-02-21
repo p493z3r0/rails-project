@@ -1,0 +1,12 @@
+{
+    "telemetry.machineId": "c2139d7b38004a90eff05ba429961d3677c37d4a19fb2b29b24cfcb6bcfbe689",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "pickerWorkingDir": "/home/vmadmin/workspace",
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///home/vmadmin/workspace/myapp"
+        ],
+        "files2": []
+    }
+}
